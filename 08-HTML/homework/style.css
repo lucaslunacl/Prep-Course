@@ -1,0 +1,19 @@
+h1{
+    color: chartreuse;
+}
+.divClass{
+    width: 500px;
+    height: 600px;
+    background-color: coral;
+}
+span{
+    font-size: 18px;
+    margin: 50px;
+}
+.thirdDiv{
+    padding: 50px;
+    border: 1px solid black;
+}
+img{
+    width: 400px;
+}
